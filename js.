@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tech Blog - Javascript</title>
+  </head>
+  <body>
+  </body>
+  <h1>JS Notes</h1>
+ <p class="codepen" data-height="300" data-default-tab="js,result" data-slug-hash="PoKLjxO" data-user="hally-a" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/hally-a/pen/PoKLjxO">
+  js1</a> by hally (<a href="https://codepen.io/hally-a">@hally-a</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<p>console.log(h1); This will print text inside the h1 tag.You will find the results iin the console. </p>
