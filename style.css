@@ -5,7 +5,7 @@ li {letter-spacing: 3px}
 
 ul{ 
   list-style-type: none;
-  background-color: rgb(240,255,255);
+  background-color: rgb(176, 194, 176);
     width: 200px;
     height: 100px;
     padding-left: 0px;
@@ -16,5 +16,5 @@ ul{
   position: center;
 }
 body{
-  background-color: rgb(255,255,240);
+  background-color: rgb(255,250,240);
 }
