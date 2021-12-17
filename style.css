@@ -6,7 +6,14 @@ li {letter-spacing: 3px}
 ul{ 
   list-style-type: none;
   background-color: rgb(245,222,179);
+    width: 200px;
+    height: 100px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 body{
-  background-color: rgb(238,232,170);
+  background-color: rgb(255,240,245);
 }
