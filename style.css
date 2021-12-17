@@ -1,5 +1,6 @@
-body,h1 {font-family: "Raleway", Arial, sans-serif}
+body,h1,h2 {font-family: "Raleway", Arial, sans-serif}
 h1 {letter-spacing: 6px}
+h2 {letter-spacing: 6px}
 li {letter-spacing: 3px}
 
 ul{ 
